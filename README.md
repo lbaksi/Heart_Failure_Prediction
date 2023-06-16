@@ -1,6 +1,7 @@
 # Heart_Failure_Prediction with detailed visualisations and comparable models of SVM and ANN
 
 The variable deifinitions in the dataset as follows;
+
 anemia= when the body does not have enough heathy red blood cells(so low levels of hemoglobin). Red blood cells carry oxygen to body tissues.
 
 creatinine_phosphokinase= an enzyme, a protein that helps to elicit chemical changes in your body and is found in your heart, brain and skeletal muscles. If the level is above threshold, there is a stress, injury in the body. Generally, 10 to 120mcg/l is considered normal range. 
